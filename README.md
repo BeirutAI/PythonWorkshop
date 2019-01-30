@@ -1,4 +1,4 @@
-# PythonWorkshop
+# Python Workshop
 This is an introductory workshop that teaches fundamentals of Python needed for data science with examples and case studies.
 Code (with blanks) on Google Colab can be found here: 
 
